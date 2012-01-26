@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthOfField", "DepthOfField\DepthOfField.csproj", "{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthOfField.logik", "DepthOfField.logik\DepthOfField.logik.csproj", "{E37B3C51-3A22-4158-BE32-1CC737278BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Release|iPhone.Build.0 = Release|iPhone
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5E37CF5B-FE2A-4377-BA62-B4C42CDAEFF1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Release|iPhone.Build.0 = Release|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{E37B3C51-3A22-4158-BE32-1CC737278BF5}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DepthOfField\DepthOfField.csproj
+	EndGlobalSection
+EndGlobal

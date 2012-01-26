@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DepthOfField/AppDelegate.cs">
+    <Files>
+      <File FileName="DepthOfField/AppDelegate.cs" Line="13" Column="19" />
+      <File FileName="DepthOfField/AboutViewController.cs" Line="21" Column="1" />
+      <File FileName="DepthOfField/DepthOfFieldViewController.cs" Line="54" Column="78" />
+      <File FileName="DepthOfField/ApertureViewController.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DepthOfField" expanded="True" selected="True" />
+          <Node name="DepthOfField.logik" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DepthOfField>
+    <IPhoneTestFlightSettings_27CRelease ApiToken="9e7d03930902ba703351d847e203ea2f_MjUzNTAxMjAxMS0xMi0xOCAwNDo1MzowMy42MjI0Mjc" TeamToken="021bf3944dac89d36dc021ee0baa7800_NTQwOTkyMDEyLTAxLTE2IDA0OjUzOjIwLjk2NzU0Ng" ReleaseNotes="Log Aufruf wieder entfernt" NotifyTeamMembers="False" ReplaceBinaries="False" DistributionLists="" />
+  </MonoDevelop.Ide.ItemProperties.DepthOfField>
+</Properties>
